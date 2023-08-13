@@ -18,7 +18,7 @@ class _firstscreenState extends State<firstscreen> {
       body: Container(
         height: MediaQuery.of(context).size.height,
         decoration: BoxDecoration(
-          color: Colors.black,
+          color: Color(0xffFFFF),
         ),
         child: Stack(
           children: [
